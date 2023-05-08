@@ -9,7 +9,7 @@
 
 - I'm currently learning **Python**
 
-- 💬 Ask me about **Kubernetes, Cloud**
+- 💬 Ask me about **Kubernetes AWS**
 
 - 📫 How to reach me **ahirebn1@rediffmail.com**
 
